@@ -1,6 +1,6 @@
 # Behavioral Translation Style Space (BTSS)
 
-> [!IMPORTANT]
+> [!NOTE]
 > The BTSS is now integrated in the TPR-DB 3.0 [see documentation](https://critt-kent.github.io/TPR-DB-documentation/analyze/types/). 
 
 The Behavioral Translation Style Space (BTSS) conceptualizes the temporal structure of human translation behavior as a multi-layered architecture of hierarchically embedded processing units. It builds on and expanding the [TSF](https://github.com/Critt-Kent/Task-Segment-Framework) and the [HOF taxonomy](https://doi.org/10.1016/j.amper.2024.100164) which differentiate between automatized, cognitive, and affective translation behaviors. The BTSS analyzes keystrokes and gaze patterns across various temporal layers; it provides a coherent research framework from micro-level behavioral indicators to macro-level cognitive and affective patterns that emerge during the translation task.  
